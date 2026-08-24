@@ -305,6 +305,9 @@ All values are calculated dynamically by the simulation engine.
 
 ---
 
+RUN THIS CODE : cd "/Users/aadarshj/Downloads/urbanpulse-—-urban-infrastructure-cascade-simulator"
+npm run dev(after downloading the zip and open it on vs code)
+
 # 🤖 AI-Powered Intervention
 
 URBANPULSE does not stop at predicting failures.
