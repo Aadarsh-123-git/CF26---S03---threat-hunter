@@ -1,0 +1,6 @@
+{
+  "name": "URBANPULSE — Urban Infrastructure Cascade Simulator",
+  "description": "AI-Powered Real-World Urban Infrastructure Cascade Simulator with graph dependency modeling, time-series cascade propagation, resilience scoring, AI response optimization, and data provenance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
